@@ -7,7 +7,7 @@ Welcome to the Nexter Master Grid project! This project is a deep dive into mast
 - [Installation](#installation)
 - [Contributor](#contributor)
 ## Demo
-Try it here: [Nexter Master Grid](https://orichaimatan.github.io/Trillo-Master-Flexbox/)
+Try it here: [Nexter Master Grid](https://orichaimatan.github.io/Nexter-Master-Grid/)
 ## Features
 - CSS Grid Layout: This project demonstrates how to use CSS Grid for creating intricate, flexible, and responsive layouts.
 - Project Overview:
